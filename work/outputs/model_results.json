@@ -1,0 +1,7 @@
+{
+    "model": "RandomForestClassifier",
+    "split_strategy": "GroupShuffleSplit (client_id)",
+    "precision_at_50": 0.74,
+    "baseline_precision_at_50": 0.24,
+    "claim_type": "decision-support"
+}
